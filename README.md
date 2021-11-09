@@ -1,6 +1,6 @@
 # 3-dimensional Segmentation using a 3D Convolution Neural Network
 
-This Python package utilised a 3-dimensional convolution neural network (CNN) to perform segmentation of 3D images. The 3D CNN is based on the [U-Net architecture](https://arxiv.org/abs/1505.04597) but extended for [volumetric delineation](https://arxiv.org/abs/1606.06650) with 3D spatial convolutions . 
+This Python package utilised a 3-dimensional convolution neural network (CNN) to perform segmentation of 3D images using [Keras](https://keras.io/). The 3D CNN is based on the [U-Net architecture](https://arxiv.org/abs/1505.04597) but extended for [volumetric delineation](https://arxiv.org/abs/1606.06650) with 3D spatial convolutions. 
 
 Hyperparameters can be tuned using [Talos](https://github.com/autonomio/talos) which integrates with [Keras](https://keras.io/). This automates and performs a quantitative evaluation of the CNN during training.
 
