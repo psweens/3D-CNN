@@ -15,7 +15,7 @@ The 3D CNN was trained using [Keras](https://keras.io/) using the following pack
 A package list for a Python environment has been provided and can be installed using the method described below.
 
 ## References 
-To reference this repository please use the below ciation.
+To reference this repository please use the below citation.
 
 ***TBA***
 
