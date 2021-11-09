@@ -14,6 +14,11 @@ The 3D CNN was trained using [Keras](https://keras.io/) using the following pack
 
 A package list for a Python environment has been provided and can be installed using the method described below.
 
+## References 
+To reference this repository please use the below ciation.
+
+***TBA***
+
 ## Installation
 The ROI package is compatible with Python3, and has been tested on Ubuntu 18.04 LTS. 
 Other distributions of Linux, macOS, Windows should work as well.
