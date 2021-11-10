@@ -140,7 +140,7 @@ plot_model(model, to_file='Output/3Dunet.png', show_shapes=True)
 #                       n_classes=n_classes, subvolumes=subvolumes)
 
 #  Compare predictions against other
-vess_path = '/media/sweene01/SSD/full_masks/test/'
+vess_path = ''
 files = os.listdir(mask_path)
 analyse_predictions(files,
                     os.getcwd(),
