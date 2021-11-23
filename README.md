@@ -17,7 +17,8 @@ A package list for a Python environment has been provided and can be installed u
 ## References 
 To reference this repository please use the below citation.
 
-***TBA***
+> [Quantification of vascular networks in photoacoustic mesoscopy](https://www.biorxiv.org/content/10.1101/2021.11.22.469541v1)<br>
+> Emma L. Brown, Thierry L. Lefebvre, Paul W. Sweeney et al.
 
 ## Installation
 The ROI package is compatible with Python3, and has been tested on Ubuntu 18.04 LTS. 
