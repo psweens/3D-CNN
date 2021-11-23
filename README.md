@@ -6,6 +6,12 @@ Hyperparameters can be tuned using [Talos](https://github.com/autonomio/talos) w
 
 To-date, this script has been used to train a 3D CNN which predicts a tumour region-of-interest from 3D raster-scan optoacoustic mesoscopy (RSOM) images, found [here](https://github.com/psweens/Predict-RSOM-ROI/blob/main/README.md).
 
+## References 
+To reference this repository please use the below citation.
+
+> [Quantification of vascular networks in photoacoustic mesoscopy](https://www.biorxiv.org/content/10.1101/2021.11.22.469541v1)<br>
+> Emma L. Brown, Thierry L. Lefebvre, Paul W. Sweeney et al.
+
 ## Prerequisites
 The 3D CNN was trained using [Keras](https://keras.io/) using the following package versions:
 * Python 3.6.
@@ -13,12 +19,6 @@ The 3D CNN was trained using [Keras](https://keras.io/) using the following pack
 * Tensorflow-GPU 1.14.0.
 
 A package list for a Python environment has been provided and can be installed using the method described below.
-
-## References 
-To reference this repository please use the below citation.
-
-> [Quantification of vascular networks in photoacoustic mesoscopy](https://www.biorxiv.org/content/10.1101/2021.11.22.469541v1)<br>
-> Emma L. Brown, Thierry L. Lefebvre, Paul W. Sweeney et al.
 
 ## Installation
 The ROI package is compatible with Python3, and has been tested on Ubuntu 18.04 LTS. 
