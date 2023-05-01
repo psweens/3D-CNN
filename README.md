@@ -9,7 +9,7 @@ To-date, this script has been used to train a 3D CNN which predicts a tumour reg
 ## References 
 To reference this repository please use the below citation.
 
-> [Quantification of vascular networks in photoacoustic mesoscopy](https://www.biorxiv.org/content/10.1101/2021.11.22.469541v1)<br>
+> [Quantification of vascular networks in photoacoustic mesoscopy](https://www.sciencedirect.com/science/article/pii/S221359792200026X)<br>
 > Emma L. Brown, Thierry L. Lefebvre, Paul W. Sweeney et al.
 
 ## Prerequisites
