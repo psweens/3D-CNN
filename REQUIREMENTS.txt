@@ -30,7 +30,6 @@ dask-core==2.30.0
 dbus==1.13.18
 decorator==4.4.2
 defusedxml==0.6.0
-diff-match-patch=20200713=py_0
 docutils==0.16
 entrypoints==0.3
 expat==2.2.10
@@ -227,7 +226,6 @@ werkzeug==1.0.1
 wheel==0.35.1
 wrapt==1.12.1
 wurlitzer==2.0.1
-x264=1!152.20180806=h14c3975_0
 xorg-fixesproto==5.0
 xorg-inputproto==2.3.2
 xorg-kbproto==1.0.7
